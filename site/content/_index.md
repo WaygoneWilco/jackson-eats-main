@@ -1,7 +1,7 @@
 ---
 title: Great Food from Local Farms
 subtitle: Eat Healthy and Support Local Farmers
-image: img/field-1447690_1920.jpg
+image: img/vegetables-752153_1920.jpg
 blurb:
   heading: Why Jackson Eats?
   text: We are building the local food economy in Jackson. We offer you local
