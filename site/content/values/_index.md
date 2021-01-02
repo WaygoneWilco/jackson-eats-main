@@ -8,32 +8,26 @@ values:
       nutritious food for you and your family, and typically means less
       environmental damage.
     imageUrl: img/apple-1122537_1920.jpg
-  - heading: Single origin
+  - heading: Relationships
+    text: We like to know who grows the food we eat. We like to know the families
+      that are supported by our purchases, know the land that the food is grown
+      on. This isn't generic grocery store food. Each of our farmers and the
+      food they produce mean something.
+    imageUrl: img/carrots-673184_1920.jpg
+  - heading: Regenerative Farming
     text: >
-      Single-origin coffee is coffee grown within a single known geographic
-      origin. Sometimes, this is a single farm or a specific collection of beans
-      from a single country. The name of the coffee is then usually the place it
-      was grown to whatever degree available.
-    imageUrl: /img/about-single-origin.jpg
-  - heading: Sustainable farming
-    text: >
-      Sustainable agriculture is farming in sustainable ways based on an
-      understanding of ecosystem services, the study of relationships between
-      organisms and their environment. What grows where and how it is grown are
-      a matter of choice and careful consideration for nature and communities.
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
-    imageUrl: /img/about-reinvest-profits.jpg
+      Regenerative agriculture is a conservation and rehabilitation approach to
+      food and farming systems. It focuses on topsoil regeneration, increasing
+      biodiversity, improving the water cycle, enhancing ecosystem services,
+      supporting biosequestration, increasing resilience to climate change, and
+      strengthening the health and vitality of farm soil. We support and promote
+      regenerative agriculture, and source from as responsible sources as
+      possible.
+    imageUrl: img/onions-1397037_1920.jpg
+  - heading: Resilience
+    text: Resilience is the ability of a system (like a community) to absorb
+      disturbance and still retain basic function and structure. A key component
+      of community resiliency is access to food. By supporting local farms, we
+      build the resiliency of our communities.
+    imageUrl: img/jam-428094_1920.jpg
 ---
