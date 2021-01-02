@@ -9,6 +9,9 @@ blurb:
     benefits everyone - you receive healthy, quality food, farmers receive a
     steady income, and money stays in our local communities. Better food for
     your family, better living for local farmers.
+shop:
+  heading: Shop Here
+  text: Our online shop is open Sunday 6PM to Wednesday 6PM, and orders are available for pickup from 9AM-12PM on the next Saturday, near Downtown Jackson.
 intro:
   heading: What we offer
   text: Our core offerings are locally grown produce, pasture raised meat, local

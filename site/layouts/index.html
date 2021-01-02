@@ -2,6 +2,12 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
+{{ partial "short-text" .Params.shop}}
+
+<div class="tc bg-grey-1">
+    <a href="https://openfoodnetwork.net/jackson-eats/shop" class="btn raise">Shop Now</a>
+  </div>
+
 {{ partial "short-text" .Params.blurb}}
 
 {{ partial "2-up" .Params }}
