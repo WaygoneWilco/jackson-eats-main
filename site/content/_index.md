@@ -7,13 +7,14 @@ blurb:
   text: We are building the local food economy in Jackson. We offer you local
     foods while we offer local farmers fair prices for their products. This
     benefits everyone - you receive healthy, quality food, farmers receive a
-    steady income, and money stays in our local communities.
+    steady income, and money stays in our local communities. Better food for
+    your family, better living for local farmers.
 intro:
   heading: What we offer
-  text: Locally grown produce, grains, beans, maple syrups, oil... We have a
-    selection of the most popular items. We are working with local farmers to
-    provide as much of our offerings as possible, so availability is dependent
-    on our farmers and our suppliers.
+  text: Our core offerings are locally grown produce, pasture raised meat, local
+    maple syrup and honey, and regionally grown grains and beans. We source as
+    much of our offerings from local farmers as possible, but bring in products
+    to round out our offerings.
 products: []
 values:
   heading: Our values
