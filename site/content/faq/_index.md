@@ -14,7 +14,6 @@ faq:
   - heading: Order Time
     text: >
       Orders are open Sundays at 6PM and close Wednesdays at 6PM.
-      possible.
   - heading: Pickup Time
     text: Pickup is available Saturdays from 9AM to 12PM. Pickup location will be
       provided at completion of your order.
