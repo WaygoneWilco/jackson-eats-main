@@ -9,7 +9,10 @@ contact_entries:
   - heading: Pickup Day
     text: |-
       Saturday 9AM – 12PM
+
 ---
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-Any questions about Jackson Eats? Are you interested in providing food? Reach out by contacting us below.
+Any questions about Jackson Eats? Reach out by contacting us below. 
+
+Information about selling through Jackson Eats can be found here: https://cutt.ly/fkDOeGJ.
